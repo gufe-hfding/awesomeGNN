@@ -1,2 +1,7 @@
-# awesomeGNN
-Resources of GNNs
+# Awesome GNN
+
+[TOC]
+
+## Turtorial and Serveys
+
+
