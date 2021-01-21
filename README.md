@@ -1,7 +1,135 @@
+- [Awesome GNN](#awesome-gnn)
+  * [Tutorials and Surveys](#tutorials-and-surveys)
+    + [Video and Side Courses](#video-and-side-courses)
+    + [Brief Tutorials](#brief-tutorials)
+  * [Definitions and Methods](#definitions-and-methods)
+  * [Applications](#applications)
+    + [推荐系统](#----)
+    + [视频理解](#----)
+  * [Adversarial Attacks on GNNs](#adversarial-attacks-on-gnns)
+  * [Interpretability of GNNs](#interpretability-of-gnns)
+  * [Privacy of GNNs](#privacy-of-gnns)
+  * [Federated GNN](#federated-gnn)
+  
 # Awesome GNN
 
-[TOC]
+## Tutorials and Surveys
 
-## Turtorial and Serveys
+### Video and Side Courses
+
+1.  CS224W: Machine Learning with Graphs http://web.stanford.edu/class/cs224w/  （中文简洁版：https://www.bilibili.com/video/BV1jE411p7pj)
+2. ESE680: Graph Neural Networks https://gnn.seas.upenn.edu/ (B站视频：https://www.bilibili.com/video/BV1L5411j7kb)
+3.  宾夕法尼亚大学《图神经网络》短期课程(2020) https://www.bilibili.com/video/BV17y4y1B7JN
+
+### Brief Tutorials
+
+1. 崔鹏《图神经网络年度进展概述》https://www.bilibili.com/video/BV1za4y1J7CY
+2. 台大李宏毅助教讲解GNN图神经网络 https://www.bilibili.com/video/BV1G54y1971S
+3. Introduction to GNN - 杜岳華 https://www.bilibili.com/video/BV1At411N7nh
+4. 图神经网络 Graph Network https://www.bilibili.com/video/BV1K5411H7EQ
+5. 图神经网络在线研讨会（上） https://www.bilibili.com/video/BV1w7411Q7kK （下）https://www.bilibili.com/video/BV1w7411Q7pQ
+6. 异质图神经网络:模型和应用 https://www.bilibili.com/video/BV1HE41157GD
+7. 图神经网络学习班 https://www.bilibili.com/video/BV135411t76X
+8. 朱时超： 图神经网络模型及应用进展 https://www.bilibili.com/video/av37250492/
+9. 图卷积网络介绍及进展  https://www.bilibili.com/video/BV15t411z71q
+10. 呼奋宇：深度层次化图卷积神经网络 https://www.bilibili.com/video/BV1dx411d7JT
+11. 朱时超： 图表示学习专题 https://www.bilibili.com/video/BV1554y1z7mY
+12. 2020 北京智源大会 6.23 图神经网络专题 https://www.bilibili.com/video/BV1nV411k7c5
+
+## Definitions and Methods
+
+
+
+## Applications
+
+### 推荐系统
+
+1.  图神经网络在推荐广告场景中的应用 https://www.bilibili.com/video/BV1hh411f7n7
+
+2. 崔泽宇：套装搭配推荐在图神经网络上的应用 https://www.bilibili.com/video/BV1Jx411d73R
+
+### 视频理解
+
+1. 图神经网络在视频理解中的探索 https://www.bilibili.com/video/BV1Vb411W7t9
+
+## Adversarial Attacks on GNNs
+
+1. 图神经网络的对抗攻击研究https://www.bilibili.com/video/BV1YJ411J7SL
+
+2. **Adversarial Attacks on Neural Networks for Graph Data.** KDD 2018. [paper](http://delivery.acm.org/10.1145/3230000/3220078/p2847-zugner.pdf?ip=101.5.139.169&id=3220078&acc=ACTIVE SERVICE&key=BF85BBA5741FDC6E.587F3204F5B62A59.4D4702B0C3E38B35.4D4702B0C3E38B35&__acm__=1545706391_e7484be677293ffb5f18b39ce84a0df9)
+
+   *Daniel Zügner, Amir Akbarnejad, Stephan Günnemann.*
+
+3. **Adversarial Attack on Graph Structured Data.** ICML 2018. [paper](https://arxiv.org/abs/1806.02371)
+
+   *Hanjun Dai, Hui Li, Tian Tian, Xin Huang, Lin Wang, Jun Zhu, Le Song.*
+
+4. **Adversarial Examples on Graph Data: Deep Insights into Attack and Defense.** IJCAI 2019. [paper](https://arxiv.org/pdf/1903.01610.pdf)
+
+   *Huijun Wu, Chen Wang, Yuriy Tyshetskiy, Andrew Docherty, Kai Lu, Liming Zhu.*
+
+5. **Topology Attack and Defense for Graph Neural Networks: An Optimization Perspective.** IJCAI 2019. [paper](https://arxiv.org/pdf/1906.04214.pdf)
+
+   *Kaidi Xu, Hongge Chen, Sijia Liu, Pin-Yu Chen, Tsui-Wei Weng, Mingyi Hong, Xue Lin.*
+
+6. **Robust Graph Convolutional Networks Against Adversarial Attacks.** KDD 2019. [paper](http://pengcui.thumedialab.com/papers/RGCN.pdf)
+
+   *Dingyuan Zhu, Ziwei Zhang, Peng Cui, Wenwu Zhu.*
+
+7. **Certifiable Robustness and Robust Training for Graph Convolutional Networks.** KDD 2019. [paper](https://arxiv.org/pdf/1906.12269)
+
+   *Daniel Zügner, Stephan Günnemann.*
+
+8. **Adversarial Attacks on Node Embeddings via Graph Poisoning.** ICML 2019. [paper](https://arxiv.org/pdf/1809.01093)
+
+   *Aleksandar Bojchevski, Stephan Günnemann.*
+
+9. **Adversarial Attacks on Graph Neural Networks via Meta Learning.** ICLR 2019. [paper](https://github.com/thunlp/GNNPapers/blob/master)
+
+   *Daniel Zügner, Stephan Günnemann.*
+
+10. **PeerNets: Exploiting Peer Wisdom Against Adversarial Attacks.** ICLR 2019. [paper](https://openreview.net/pdf?id=Sk4jFoA9K7)
+
+    *Jan Svoboda, Jonathan Masci, Federico Monti, Michael Bronstein, Leonidas Guibas.*
+
+11. **Certifiable Robustness to Graph Perturbations.** NeurIPS 2019. [paper](http://papers.nips.cc/paper/by-source-2019-4514)
+
+    *Aleksandar Bojchevski, Stephan Günnemann.*
+
+12. **A Unified Framework for Data Poisoning Attack to Graph-based Semi-supervised Learning.** NeurIPS 2019. [paper](http://papers.nips.cc/paper/by-source-2019-5182)
+
+    *Xuanqing Liu, Si Si, Jerry Zhu, Yang Li, Cho-Jui Hsieh.*
+
+13. **GNNGuard: Defending Graph Neural Networks against Adversarial Attacks.** NeurIPS 2020. [paper](https://papers.nips.cc/paper/2020/hash/690d83983a63aa1818423fd6edd3bfdb-Abstract.html)
+
+    *Xiang Zhang, Marinka Zitnik.*
+
+## Interpretability of GNNs
+
+1. Lukas Pfahler, Jan Richter: Interpretable Nearest Neighbor Queries for Tree-Structured Data in Vector Databases of Graph-Neural Network Embeddings. EDBT/ICDT Workshops 2020
+2. Qiang Huang, Makoto Yamada, Yuan Tian, Dinesh Singh, Dawei Yin, Yi Chang: GraphLIME: Local Interpretable Model Explanations for Graph Neural Networks. CoRR abs/2001.06216  (2020)
+3. Chris Lin, Gerald J. Sun, Krishna C. Bulusu, Jonathan R. Dry, Marylens Hernandez: Graph Neural Networks Including Sparse Interpretability. CoRR abs/2007.00119(2020)
+4. Avinash Kori, Parth Natekar, Ganapathy Krishnamurthi, Balaji Srinivasan: Abstracting Deep Neural Networks into Concept Graphs for Concept Level Interpretability. CoRR abs/2008.06457(2020)
+5. Yuhang Yao, Carlee Joe-Wong: Interpretable Clustering on Dynamic Graphs with Recurrent Graph Neural Networks. CoRR abs/2012.08740 (2020)
+6. Siheng Chen, Yonina C. Eldar, Lingxiao Zhao: Graph Unrolling Networks: Interpretable Neural Networks for Graph Signal Denoising. CoRR abs/2006.01301 (2020)
+7. Tianle Ma, Aidong Zhang: Incorporating Biological Knowledge with Factor Graph Neural Network for Interpretable Deep Learning. CoRR abs/1906.00537 (2019)
+
+## Privacy of GNNs
+
+1. Xinlei He, Jinyuan Jia, Michael Backes, Neil Zhenqiang Gong, Yang Zhang: Stealing Links from Graph Neural Networks. CoRR abs/2005.02131CCF none (2020)
+2. Sina Sajadmanesh, Daniel Gatica-Perez: Locally Private Graph Neural Networks. CoRR abs/2006.05535 (2020) https://github.com/sisaman/LPGNN
+3. Vasisht Duddu, Antoine Boutet, Virat Shejwalkar: Quantifying Privacy Leakage in Graph Embedding. CoRR abs/2010.00906CCF none (2020)
+4. Guang Yang, Juan Cao, Zhineng Chen, Junbo Guo, Jintao Li: Graph-based neural networks for explainable image privacy inference. Pattern Recognit. 105 107360 (2020)
+5. Jun Zhou, Chaochao Chen, Longfei Zheng, Xiaolin Zheng, Bingzhe Wu, Ziqi Liu, Li Wang: Privacy-Preserving Graph Neural Network for Node Classification. CoRR abs/2005.11903 (2020)
+6. Sina Sajadmanesh, Daniel Gatica-Perez: When Differential Privacy Meets Graph Neural Networks. CoRR abs/2006.05535 (2020)
+7. Luca Luceri, Davide Andreoletti, Silvia Giordano: Infringement of Tweets Geo-Location Privacy: an approach based on Graph Convolutional Neural Networks. CoRR abs/1903.11206
+
+## Federated GNN
+
+1. Longfei Zheng, Jun Zhou, Chaochao Chen, Bingzhe Wu, Li Wang, Benyu Zhang: ASFGNN: Automated Separated-Federated Graph Neural Network. CoRR abs/2011.03248(2020)
+2. Binghui Wang, Ang Li, Hai Li, Yiran Chen: GraphFL: A Federated Learning Framework for Semi-Supervised Node Classification on Graphs. CoRR abs/2012.04187(2020)
+3. Dongming Han, Wei Chen, Rusheng Pan, Yijing Liu, Jiehui Zhou, Ying Xu, Tianye Zhang, Changjie Fan, Jianrong Tao, Xiaolong Zhang: GraphFederator: Federated Visual Analysis for Multi-party Graphs. CoRR abs/2008.119892020)
+4. Guangxu Mei, Ziyu Guo, Shijun Liu, Li Pan: SGNN: A Graph Neural Network Based Federated Learning Approach by Hiding Structure. BigData 2019 2560-2568
+5. Anusha Lalitha, Osman Cihan Kilinc, Tara Javidi, Farinaz Koushanfar: Peer-to-peer Federated Learning on Graphs. CoRR abs/1901.11173 (2019)
 
 
