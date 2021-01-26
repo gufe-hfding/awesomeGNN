@@ -1,16 +1,16 @@
 - [Awesome GNN](#awesome-gnn)
-  * [Tutorials and Surveys](#tutorials-and-surveys)
-    + [Video and Side Courses](#video-and-side-courses)
-    + [Brief Tutorials](#brief-tutorials)
-  * [Definitions and Methods](#definitions-and-methods)
-  * [Applications](#applications)
-    + [推荐系统](#----)
-    + [视频理解](#----)
-  * [Adversarial Attacks on GNNs](#adversarial-attacks-on-gnns)
-  * [Interpretability of GNNs](#interpretability-of-gnns)
-  * [Privacy of GNNs](#privacy-of-gnns)
-  * [Federated GNN](#federated-gnn)
-  
+  - [Tutorials and Surveys](#tutorials-and-surveys)
+    - [Video and Side Courses](#video-and-side-courses)
+    - [Brief Tutorials](#brief-tutorials)
+  - [Definitions and Methods](#definitions-and-methods)
+  - [Applications](#applications)
+    - [Recommendation System](#recommendation-system)
+    - [Videos Understanding](#videos-understanding)
+  - [Adversarial Attacks on GNNs](#adversarial-attacks-on-gnns)
+  - [Interpretability of GNNs](#interpretability-of-gnns)
+  - [Privacy of GNNs](#privacy-of-gnns)
+  - [Federated GNN](#federated-gnn)
+
 # Awesome GNN
 
 ## Tutorials and Surveys
@@ -42,13 +42,13 @@
 
 ## Applications
 
-### 推荐系统
+### Recommendation System
 
-1.  图神经网络在推荐广告场景中的应用 https://www.bilibili.com/video/BV1hh411f7n7
+1.  系统网络在推荐广告场景中的应用 https://www.bilibili.com/video/BV1hh411f7n7
 
 2. 崔泽宇：套装搭配推荐在图神经网络上的应用 https://www.bilibili.com/video/BV1Jx411d73R
 
-### 视频理解
+### Videos Understanding
 
 1. 图神经网络在视频理解中的探索 https://www.bilibili.com/video/BV1Vb411W7t9
 
@@ -106,13 +106,15 @@
 
 ## Interpretability of GNNs
 
-1. Lukas Pfahler, Jan Richter: Interpretable Nearest Neighbor Queries for Tree-Structured Data in Vector Databases of Graph-Neural Network Embeddings. EDBT/ICDT Workshops 2020
-2. Qiang Huang, Makoto Yamada, Yuan Tian, Dinesh Singh, Dawei Yin, Yi Chang: GraphLIME: Local Interpretable Model Explanations for Graph Neural Networks. CoRR abs/2001.06216  (2020)
-3. Chris Lin, Gerald J. Sun, Krishna C. Bulusu, Jonathan R. Dry, Marylens Hernandez: Graph Neural Networks Including Sparse Interpretability. CoRR abs/2007.00119(2020)
-4. Avinash Kori, Parth Natekar, Ganapathy Krishnamurthi, Balaji Srinivasan: Abstracting Deep Neural Networks into Concept Graphs for Concept Level Interpretability. CoRR abs/2008.06457(2020)
-5. Yuhang Yao, Carlee Joe-Wong: Interpretable Clustering on Dynamic Graphs with Recurrent Graph Neural Networks. CoRR abs/2012.08740 (2020)
-6. Siheng Chen, Yonina C. Eldar, Lingxiao Zhao: Graph Unrolling Networks: Interpretable Neural Networks for Graph Signal Denoising. CoRR abs/2006.01301 (2020)
-7. Tianle Ma, Aidong Zhang: Incorporating Biological Knowledge with Factor Graph Neural Network for Interpretable Deep Learning. CoRR abs/1906.00537 (2019)
+1. Hao Yuan, Haiyang Yu, Shurui Gui, Shuiwang Ji: Explainability in Graph Neural Networks: A Taxonomic Survey. CoRR abs/2012.15445 (2020)
+2. Lukas Pfahler, Jan Richter: Interpretable Nearest Neighbor Queries for Tree-Structured Data in Vector Databases of Graph-Neural Network Embeddings. EDBT/ICDT Workshops 2020
+3. Qiang Huang, Makoto Yamada, Yuan Tian, Dinesh Singh, Dawei Yin, Yi Chang: GraphLIME: Local Interpretable Model Explanations for Graph Neural Networks. CoRR abs/2001.06216  (2020)
+4. Chris Lin, Gerald J. Sun, Krishna C. Bulusu, Jonathan R. Dry, Marylens Hernandez: Graph Neural Networks Including Sparse Interpretability. CoRR abs/2007.00119(2020)
+5. Avinash Kori, Parth Natekar, Ganapathy Krishnamurthi, Balaji Srinivasan: Abstracting Deep Neural Networks into Concept Graphs for Concept Level Interpretability. CoRR abs/2008.06457(2020)
+6. Yuhang Yao, Carlee Joe-Wong: Interpretable Clustering on Dynamic Graphs with Recurrent Graph Neural Networks. CoRR abs/2012.08740 (2020)
+7. Siheng Chen, Yonina C. Eldar, Lingxiao Zhao: Graph Unrolling Networks: Interpretable Neural Networks for Graph Signal Denoising. CoRR abs/2006.01301 (2020)
+8. Tianle Ma, Aidong Zhang: Incorporating Biological Knowledge with Factor Graph Neural Network for Interpretable Deep Learning. CoRR abs/1906.00537 (2019)
+9. Phillip E. Pope, Soheil Kolouri, Mohammad Rostami, Charles E. Martin, Heiko Hoffmann: Explainability Methods for Graph Convolutional Neural Networks. CVPR 2019CCF A: 10772-10781
 
 ## Privacy of GNNs
 
