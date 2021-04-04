@@ -13,11 +13,20 @@
 
 # Awesome GNN
 
+The most related repository. https://github.com/thunlp/GNNPapers
+
+## Books
+
+- 刘忠雨，李彦霖，周洋 著. 深入浅出图神经网络：GNN原理解析, 北京：机械工业出版社，2020.
+- William L. Hamilton, Graph Representation Learning. https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf
+- Yao Ma, Jiliang Tang, Deep Learning on Graphs https://cse.msu.edu/~mayao4/dlg_book/dlg_book.pdf (有中文版)
+- Zhiyuan Liu, Jie Zhou, Introduction to Graph Neural Networks.Synthesis Lectures on Artificial Intelligence and Machine Learning, Morgan & Claypool Publishers, 2020. （有中文版)
+
 ## Tutorials and Surveys
 
 ### Video and Side Courses
 
-1.  CS224W: Machine Learning with Graphs http://web.stanford.edu/class/cs224w/  （中文简洁版：https://www.bilibili.com/video/BV1jE411p7pj)
+1.  CS224W: Machine Learning with Graphs http://web.stanford.edu/class/cs224w/  （中文简洁版：https://www.bilibili.com/video/BV1jE411p7pj) Notes：https://snap-stanford.github.io/cs224w-notes/
 2. ESE680: Graph Neural Networks https://gnn.seas.upenn.edu/ (B站视频：https://www.bilibili.com/video/BV1L5411j7kb)
 3.  宾夕法尼亚大学《图神经网络》短期课程(2020) https://www.bilibili.com/video/BV17y4y1B7JN
 
@@ -155,5 +164,13 @@
 4. Dongming Han, Wei Chen, Rusheng Pan, Yijing Liu, Jiehui Zhou, Ying Xu, Tianye Zhang, Changjie Fan, Jianrong Tao, Xiaolong Zhang: GraphFederator: Federated Visual Analysis for Multi-party Graphs. CoRR abs/2008.119892020)
 5. Guangxu Mei, Ziyu Guo, Shijun Liu, Li Pan: SGNN: A Graph Neural Network Based Federated Learning Approach by Hiding Structure. BigData 2019 2560-2568
 6. Anusha Lalitha, Osman Cihan Kilinc, Tara Javidi, Farinaz Koushanfar: Peer-to-peer Federated Learning on Graphs. CoRR abs/1901.11173 (2019)
+
+## Development Tools
+
+- 清华大学：CogDL is a graph representation learning toolkit http://keg.cs.tsinghua.edu.cn/cogdl/index.html
+- 纽约大学上海分校：DEEP GRAPH LIBRARY https://www.dgl.ai/
+- ptgnn: A PyTorch GNN Library
+- 南洋理工大学：Benchmarking Graph Neural Networks https://github.com/graphdeeplearning/benchmarking-gnns
+- 斯坦福大学：Open Graph Benchmark https://ogb.stanford.edu/
 
 
