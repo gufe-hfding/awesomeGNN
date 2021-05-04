@@ -13,22 +13,31 @@
 
 # Awesome GNN
 
-The most related repository. https://github.com/thunlp/GNNPapers
+The most related repositories：
+
+1. https://github.com/thunlp/GNNPapers
+
+2. https://github.com/ChandlerBang/awesome-graph-attack-papers
+3. https://github.com/safe-graph/graph-adversarial-learning-literature
+4. https://github.com/gitgiter/Graph-Adversarial-Learning
 
 ## Books
 
 - 刘忠雨，李彦霖，周洋 著. 深入浅出图神经网络：GNN原理解析, 北京：机械工业出版社，2020.
 - William L. Hamilton, Graph Representation Learning. https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf
 - Yao Ma, Jiliang Tang, Deep Learning on Graphs https://cse.msu.edu/~mayao4/dlg_book/dlg_book.pdf (有中文版)
-- Zhiyuan Liu, Jie Zhou, Introduction to Graph Neural Networks.Synthesis Lectures on Artificial Intelligence and Machine Learning, Morgan & Claypool Publishers, 2020. （有中文版)
+- Zhiyuan Liu, Jie Zhou, Introduction to Graph Neural Networks. Synthesis Lectures on Artificial Intelligence and Machine Learning, Morgan & Claypool Publishers, 2020. （有中文版)
+- Davide Bacciu, Federico Errica, Alessio Micheli, Marco Podda: A gentle introduction to deep learning for graphs. Neural Networks 129: 203-221 (2020)
+- Kipf, T. N. (2020). Deep learning with graph-structured representations. https://pure.uva.nl/ws/files/46900201/Thesis.pdf
 
 ## Tutorials and Surveys
 
 ### Video and Side Courses
 
 1.  CS224W: Machine Learning with Graphs http://web.stanford.edu/class/cs224w/  （中文简洁版：https://www.bilibili.com/video/BV1jE411p7pj) Notes：https://snap-stanford.github.io/cs224w-notes/
-2. ESE680: Graph Neural Networks https://gnn.seas.upenn.edu/ (B站视频：https://www.bilibili.com/video/BV1L5411j7kb)
+2.  ESE680: Graph Neural Networks https://gnn.seas.upenn.edu/ (B站视频：https://www.bilibili.com/video/BV1L5411j7kb)
 3.  宾夕法尼亚大学《图神经网络》短期课程(2020) https://www.bilibili.com/video/BV17y4y1B7JN
+4.  宾夕法尼亚大学《图神经网络》课程(2020) by Alejandro RIbeiro https://www.bilibili.com/video/av457264185/
 
 ### Brief Tutorials
 
@@ -44,6 +53,15 @@ The most related repository. https://github.com/thunlp/GNNPapers
 10. 呼奋宇：深度层次化图卷积神经网络 https://www.bilibili.com/video/BV1dx411d7JT
 11. 朱时超： 图表示学习专题 https://www.bilibili.com/video/BV1554y1z7mY
 12. 2020 北京智源大会 6.23 图神经网络专题 https://www.bilibili.com/video/BV1nV411k7c5
+13. Graph Neural Networks: Models and Applications https://cse.msu.edu/~mayao4/tutorials/aaai2020/
+14. Deep Learning on Graphs, by Xavier bresson https://www.dropbox.com/s/wksvde7wx9y7z20/talk_QuantumBlack_McKinsey_12Nov19.pdf?dl=0
+15. Deep Graph Learning: Foundations, Advances and Applications https://ai.tencent.com/ailab/ml/KDD-Deep-Graph-Learning.html
+16. Theoretical Foundations of Graph Neural Networks https://petar-v.com/talks/GNN-Wednesday.pdf
+17. 
+
+### Surveys
+
+1. Ziwei Zhang, Peng Cui, Wenwu Zhu: Deep Learning on Graphs: A Survey. CoRR abs/1812.04202 (2018)
 
 ## Definitions and Methods
 
@@ -121,7 +139,6 @@ The most related repository. https://github.com/thunlp/GNNPapers
 14. **GNNGuard: Defending Graph Neural Networks against Adversarial Attacks.** NeurIPS 2020. [paper](https://papers.nips.cc/paper/2020/hash/690d83983a63aa1818423fd6edd3bfdb-Abstract.html)
 
     *Xiang Zhang, Marinka Zitnik.*
-    
 ## Security of GNNs
 
 1. Zaixi Zhang, Jinyuan Jia, Binghui Wang, Neil Zhenqiang Gong: Backdoor Attacks to Graph Neural Networks. CoRR abs/2006.11165 (2020)
@@ -169,9 +186,15 @@ The most related repository. https://github.com/thunlp/GNNPapers
 ## Development Tools
 
 - 清华大学：CogDL is a graph representation learning toolkit http://keg.cs.tsinghua.edu.cn/cogdl/index.html
+- 清华大学：AutoGL http://mn.cs.tsinghua.edu.cn/autogl/
 - 纽约大学上海分校：DEEP GRAPH LIBRARY https://www.dgl.ai/
 - ptgnn: A PyTorch GNN Library
+- [DIG: A Turnkey Library for Diving into Graph Deep Learning Research](https://arxiv.org/abs/2103.12608) https://github.com/divelab/DIG
+- PyTorch Geometric. https://pytorch-geometric.readthedocs.io/en/latest/
+- 阿里巴巴： graph learn https://github.com/alibaba/graph-learn
+- 阿里巴巴：euler https://github.com/alibaba/euler
+- 微软：pytorch GAT https://github.com/gordicaleksa/pytorch-GAT
+- DeepRobust is a PyTorch adversarial library for attack and defense methods on images and graphs.https://github.com/DSE-MSU/DeepRobust
 - 南洋理工大学：Benchmarking Graph Neural Networks https://github.com/graphdeeplearning/benchmarking-gnns
 - 斯坦福大学：Open Graph Benchmark https://ogb.stanford.edu/
-
 
