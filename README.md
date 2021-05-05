@@ -9,7 +9,7 @@
   - [Adversarial Attacks on GNNs](#adversarial-attacks-on-gnns)
   - [Interpretability of GNNs](#interpretability-of-gnns)
   - [Privacy of GNNs](#privacy-of-gnns)
-  - [Federated GNN](#federated-gnn)
+  - [Federated GNNs](#federated-gnn)
 
 # Awesome GNN
 
@@ -174,14 +174,19 @@ The most related repositories：
 11. Sina Sajadmanesh, Daniel Gatica-Perez: When Differential Privacy Meets Graph Neural Networks. CoRR abs/2006.05535 (2020)
 12. Luca Luceri, Davide Andreoletti, Silvia Giordano: Infringement of Tweets Geo-Location Privacy: an approach based on Graph Convolutional Neural Networks. CoRR abs/1903.11206
 
-## Federated GNN
+## Federated GNNs
 
-1. Chuhan Wu, Fangzhao Wu, Yang Cao, Yongfeng Huang, Xing Xie: FedGNN: Federated Graph Neural Network for Privacy-Preserving Recommendation. CoRR abs/2102.04925 (2021)
-2. Longfei Zheng, Jun Zhou, Chaochao Chen, Bingzhe Wu, Li Wang, Benyu Zhang: ASFGNN: Automated Separated-Federated Graph Neural Network. CoRR abs/2011.03248(2020)
-3. Binghui Wang, Ang Li, Hai Li, Yiran Chen: GraphFL: A Federated Learning Framework for Semi-Supervised Node Classification on Graphs. CoRR abs/2012.04187(2020)
-4. Dongming Han, Wei Chen, Rusheng Pan, Yijing Liu, Jiehui Zhou, Ying Xu, Tianye Zhang, Changjie Fan, Jianrong Tao, Xiaolong Zhang: GraphFederator: Federated Visual Analysis for Multi-party Graphs. CoRR abs/2008.119892020)
-5. Guangxu Mei, Ziyu Guo, Shijun Liu, Li Pan: SGNN: A Graph Neural Network Based Federated Learning Approach by Hiding Structure. BigData 2019 2560-2568
-6. Anusha Lalitha, Osman Cihan Kilinc, Tara Javidi, Farinaz Koushanfar: Peer-to-peer Federated Learning on Graphs. CoRR abs/1901.11173 (2019)
+1. Longfei Zheng, Jun Zhou, Chaochao Chen, Bingzhe Wu, Li Wang, Benyu Zhang: ASFGNN: Automated separated-federated graph neural network. Peer Peer Netw. Appl. 14(3)CCF C: 1692-1704 (2021)
+2. Elsa Rizk, Ali H. Sayed: A Graph Federated Architecture with Privacy Preserving Learning. CoRR abs/2104.13215 (2021)
+3. Chaoyang He, Keshav Balasubramanian, Emir Ceyani, Yu Rong, Peilin Zhao, Junzhou Huang, Murali Annavaram, Salman Avestimehr: **FedGraphNN: A Federated Learning System and Benchmark for Graph Neural Networks**. CoRR abs/2104.07145 (2021)
+4. Chuhan Wu, Fangzhao Wu, Yang Cao, Yongfeng Huang, Xing Xie: FedGNN: Federated Graph Neural Network for Privacy-Preserving Recommendation. CoRR abs/2102.04925 (2021)
+5. Chunnan Wang, Bozhou Chen, Geng Li, Hongzhi Wang: FL-AGCNS: Federated Learning Framework for Automatic Graph Convolutional Network Search. CoRR abs/2104.04141 (2021)
+6. Binghui Wang, Ang Li, Hai Li, Yiran Chen: GraphFL: A Federated Learning Framework for Semi-Supervised Node Classification on Graphs. CoRR abs/2012.04187(2020)
+7. Dongming Han, Wei Chen, Rusheng Pan, Yijing Liu, Jiehui Zhou, Ying Xu, Tianye Zhang, Changjie Fan, Jianrong Tao, Xiaolong Zhang: GraphFederator: Federated Visual Analysis for Multi-party Graphs. CoRR abs/2008.119892020)
+8. Guangxu Mei, Ziyu Guo, Shijun Liu, Li Pan: SGNN: A Graph Neural Network Based Federated Learning Approach by Hiding Structure. BigData 2019 2560-2568
+9. Anusha Lalitha, Osman Cihan Kilinc, Tara Javidi, Farinaz Koushanfar: Peer-to-peer Federated Learning on Graphs. CoRR abs/1901.11173 (2019)
+10. Chaoyang He, Conghui Tan, Hanlin Tang, Shuang Qiu, Ji Liu: Central Server Free Federated Learning over Single-sided Trust Social Networks. CoRR abs/1910.04956  (2019)
+11. Toyotaro Suzumura, Yi Zhou, Nathalie Barcardo, Guangnan Ye, Keith Houck, Ryo Kawahara, Ali Anwar, Lucia Larise Stavarache, Daniel Klyashtorny, Heiko Ludwig, Kumar Bhaskaran: Towards Federated Graph Learning for Collaborative Financial Crimes Detection. CoRR abs/1909.12946 (2019)
 
 ## Development Tools
 
