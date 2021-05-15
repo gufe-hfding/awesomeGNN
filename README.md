@@ -141,8 +141,9 @@ The most related repositories：
     *Xiang Zhang, Marinka Zitnik.*
 ## Security of GNNs
 
-1. Zaixi Zhang, Jinyuan Jia, Binghui Wang, Neil Zhenqiang Gong: Backdoor Attacks to Graph Neural Networks. CoRR abs/2006.11165 (2020)
-2. Zhaohan Xi, Ren Pang, Shouling Ji, Ting Wang: Graph Backdoor. USENIX Security 2021.(2021)([pdf](https://nesa.zju.edu.cn/download/Graph%20Backdoor.pdf))
+1. Jing Xu, Minhui Xue, Stjepan Picek: Explainability-based Backdoor Attacks Against Graph Neural Networks. CoRR abs/2104.03674  (2021)
+2. Zaixi Zhang, Jinyuan Jia, Binghui Wang, Neil Zhenqiang Gong: Backdoor Attacks to Graph Neural Networks. CoRR abs/2006.11165 (2020)
+3. Zhaohan Xi, Ren Pang, Shouling Ji, Ting Wang: Graph Backdoor. USENIX Security 2021.(2021)([pdf](https://nesa.zju.edu.cn/download/Graph%20Backdoor.pdf))
 
 ## Interpretability of GNNs
 
