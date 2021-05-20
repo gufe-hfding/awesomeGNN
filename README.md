@@ -204,3 +204,11 @@ The most related repositories：
 - 南洋理工大学：Benchmarking Graph Neural Networks https://github.com/graphdeeplearning/benchmarking-gnns
 - 斯坦福大学：Open Graph Benchmark https://ogb.stanford.edu/
 
+## Topics
+
+- defense on back-door:
+  -  [Turning Your Weakness Into a Strength: Watermarking Deep Neural Networks by Backdooring](https://www.aminer.cn/pub/5a9cb65d17c44a376ffb8431/turning-your-weakness-into-a-strength-watermarking-deep-neural-networks-by-backdooring)
+  - [Fine-Pruning: Defending Against Backdooring Attacks on Deep Neural Networks](https://www.aminer.cn/pub/5b3d98cc17c44a510f80195f/fine-pruning-defending-against-backdooring-attacks-on-deep-neural-networks)
+- data poisoning on graph based applications: 
+  - [Poisoning Attacks to Graph-Based Recommender Systems](https://www.aminer.cn/pub/5bdc31b817c44a1f58a0c5f4/poisoning-attacks-to-graph-based-recommender-systems)
+
