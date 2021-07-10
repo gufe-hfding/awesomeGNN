@@ -24,7 +24,7 @@ The most related repositories：
 ## Books
 
 - 刘忠雨，李彦霖，周洋 著. 深入浅出图神经网络：GNN原理解析, 北京：机械工业出版社，2020.
-- William L. Hamilton, Graph Representation Learning. https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf
+- William L. Hamilton, Graph Representation Learning. https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf 中文翻译版网上有售
 - Yao Ma, Jiliang Tang, Deep Learning on Graphs https://cse.msu.edu/~mayao4/dlg_book/dlg_book.pdf (有中文版)
 - Zhiyuan Liu, Jie Zhou, Introduction to Graph Neural Networks. Synthesis Lectures on Artificial Intelligence and Machine Learning, Morgan & Claypool Publishers, 2020. （有中文版)
 - Davide Bacciu, Federico Errica, Alessio Micheli, Marco Podda: A gentle introduction to deep learning for graphs. Neural Networks 129: 203-221 (2020)
@@ -45,19 +45,21 @@ The most related repositories：
 2. 台大李宏毅助教讲解GNN图神经网络 https://www.bilibili.com/video/BV1G54y1971S
 3. Introduction to GNN - 杜岳華 https://www.bilibili.com/video/BV1At411N7nh
 4. 图神经网络 Graph Network https://www.bilibili.com/video/BV1K5411H7EQ
-5. 图神经网络在线研讨会（上） https://www.bilibili.com/video/BV1w7411Q7kK （下）https://www.bilibili.com/video/BV1w7411Q7pQ
-6. 异质图神经网络:模型和应用 https://www.bilibili.com/video/BV1HE41157GD
-7. 图神经网络学习班 https://www.bilibili.com/video/BV135411t76X
-8. 朱时超： 图神经网络模型及应用进展 https://www.bilibili.com/video/av37250492/
-9. 图卷积网络介绍及进展  https://www.bilibili.com/video/BV15t411z71q
-10. 呼奋宇：深度层次化图卷积神经网络 https://www.bilibili.com/video/BV1dx411d7JT
-11. 朱时超： 图表示学习专题 https://www.bilibili.com/video/BV1554y1z7mY
-12. 2020 北京智源大会 6.23 图神经网络专题 https://www.bilibili.com/video/BV1nV411k7c5
-13. Graph Neural Networks: Models and Applications https://cse.msu.edu/~mayao4/tutorials/aaai2020/
-14. Deep Learning on Graphs, by Xavier bresson https://www.dropbox.com/s/wksvde7wx9y7z20/talk_QuantumBlack_McKinsey_12Nov19.pdf?dl=0
-15. Deep Graph Learning: Foundations, Advances and Applications https://ai.tencent.com/ailab/ml/KDD-Deep-Graph-Learning.html
-16. Theoretical Foundations of Graph Neural Networks https://petar-v.com/talks/GNN-Wednesday.pdf
-17. 
+5. GNN从入门到精通：https://www.bilibili.com/video/BV1K5411H7EQ
+6. 图神经网络在线研讨会（上） https://www.bilibili.com/video/BV1w7411Q7kK （下）https://www.bilibili.com/video/BV1w7411Q7pQ
+7. 异质图神经网络:模型和应用 https://www.bilibili.com/video/BV1HE41157GD
+8. 图神经网络学习班 https://www.bilibili.com/video/BV135411t76X
+9. 朱时超： 图神经网络模型及应用进展 https://www.bilibili.com/video/av37250492/
+10. 图卷积网络介绍及进展  https://www.bilibili.com/video/BV15t411z71q
+11. 呼奋宇：深度层次化图卷积神经网络 https://www.bilibili.com/video/BV1dx411d7JT
+12. 朱时超： 图表示学习专题 https://www.bilibili.com/video/BV1554y1z7mY
+13. 2020 北京智源大会 6.23 图神经网络专题 https://www.bilibili.com/video/BV1nV411k7c5
+14. 图神经网络：方法与应用的综述 https://www.bilibili.com/video/BV1B64y1k7L6
+15. Graph Neural Networks: Models and Applications https://cse.msu.edu/~mayao4/tutorials/aaai2020/
+16. Deep Learning on Graphs, by Xavier bresson https://www.dropbox.com/s/wksvde7wx9y7z20/talk_QuantumBlack_McKinsey_12Nov19.pdf?dl=0
+17. Deep Graph Learning: Foundations, Advances and Applications https://ai.tencent.com/ailab/ml/KDD-Deep-Graph-Learning.html
+18. Theoretical Foundations of Graph Neural Networks https://petar-v.com/talks/GNN-Wednesday.pdf
+19. 图数据库介绍及其在各场景中的应用 https://www.bilibili.com/video/BV1ef4y1Y77o
 
 ### Surveys
 1. David Ahmedt-Aristizabal, Mohammad Ali Armin, Simon Denman, Clinton Fookes, Lars Petersson: Graph-Based Deep Learning for Medical Diagnosis and Analysis: Past, Present and Future. CoRR abs/2105.13137 (2021)
@@ -208,7 +210,7 @@ The most related repositories：
 
 - 清华大学：CogDL is a graph representation learning toolkit http://keg.cs.tsinghua.edu.cn/cogdl/index.html
 - 清华大学：AutoGL http://mn.cs.tsinghua.edu.cn/autogl/
-- 纽约大学上海分校：DEEP GRAPH LIBRARY https://www.dgl.ai/
+- 纽约大学上海分校：DEEP GRAPH LIBRARY https://www.dgl.ai   https://www.bilibili.com/video/BV1cq4y1W7aA
 - ptgnn: A PyTorch GNN Library
 - [DIG: A Turnkey Library for Diving into Graph Deep Learning Research](https://arxiv.org/abs/2103.12608) https://github.com/divelab/DIG
 - PyTorch Geometric. https://pytorch-geometric.readthedocs.io/en/latest/
