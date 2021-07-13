@@ -62,19 +62,23 @@ The most related repositories：
 19. 图数据库介绍及其在各场景中的应用 https://www.bilibili.com/video/BV1ef4y1Y77o
 
 ### Surveys
-1. David Ahmedt-Aristizabal, Mohammad Ali Armin, Simon Denman, Clinton Fookes, Lars Petersson: Graph-Based Deep Learning for Medical Diagnosis and Analysis: Past, Present and Future. CoRR abs/2105.13137 (2021)
-1. Stavros Georgousis, Michael P. Kenning, Xianghua Xie: Graph Deep Learning: State of the Art and Challenges. IEEE Access 9: 22106-22140 (2021)
-2. Yaochen Xie, Zhao Xu, Zhengyang Wang, Shuiwang Ji: Self-Supervised Learning of Graph Neural Networks: A Unified Review. CoRR abs/2102.10757(2021)
-3. Zixing Song, Xiangli Yang, Zenglin Xu, Irwin King: Graph-based Semi-supervised Learning: A Comprehensive Review. CoRR abs/2102.13303 (2021)
-4. Shoujin Wang, Liang Hu, Yan Wang, Xiangnan He, Quan Z. Sheng, Mehmet A. Orgun, Longbing Cao, Francesco Ricci, Philip S. Yu: Graph Learning based Recommender Systems: A Review. CoRR abs/2105.06339 (2021)
-5. Guixiang Ma, Nesreen K. Ahmed, Theodore L. Willke, Philip S. Yu: Deep graph similarity learning: a survey. Data Min. Knowl. Discov. 35(3): 688-725 (2021) 
-6. Ilya Makarov, Dmitrii Kiselev, Nikita Nikitinsky, Lovro Subelj: Survey on graph embeddings and their applications to machine learning problems on graphs. PeerJ Comput. Sci. 7: e357 (2021)
-7. Ziwei Zhang, Xin Wang, Wenwu Zhu: Automated Machine Learning on Graphs: A Survey. CoRR abs/2103.00742CCF none (2021)
-8. Yixin Liu, Shirui Pan, Ming Jin, Chuan Zhou, Feng Xia, Philip S. Yu: Graph Self-Supervised Learning: A Survey. CoRR abs/2103.00111 2021)
-9. Feng Xia, Ke Sun, Shuo Yu, Abdul Aziz, Liangtian Wan, Shirui Pan, Huan Liu: Graph Learning: A Survey. CoRR abs/2105.00696CCF none (2021)
-10.  Chong, Yun Ding, Qing Yan, Shaoming Pan: Graph-based semi-supervised learning: A review. Neurocomputing 408: 216-230 (2020)
-11. Seyed Mehran Kazemi, Rishab Goel, Kshitij Jain, Ivan Kobyzev, Akshay Sethi, Peter Forsyth, Pascal Poupart: Representation Learning for Dynamic Graphs: A Survey. J. Mach. Learn. Res. 21 : 70:1-70:73 (2020) 
-12. Ziwei Zhang, Peng Cui, Wenwu Zhu: Deep Learning on Graphs: A Survey. CoRR abs/1812.04202 (2018)
+1. 马帅,刘建伟,左信.图神经网络综述[J/OL].计算机研究与发展,{3},{4}{5}:1-44[2021-07-14].http://kns.cnki.net/kcms/detail/11.1777.tp.20210625.1353.004.html.
+2. 徐冰冰,岑科廷,黄俊杰,沈华伟,程学旗.图卷积神经网络综述[J].计算机学报,2020,43(05):755-780.
+3. Zonghan Wu, Shirui Pan, Fengwen Chen, Guodong Long, Chengqi Zhang, Philip S. Yu: A Comprehensive Survey on Graph Neural Networks. IEEE Trans. Neural Networks Learn. Syst. 32(1): 4-24 (2021)
+4. David Ahmedt-Aristizabal, Mohammad Ali Armin, Simon Denman, Clinton Fookes, Lars Petersson: Graph-Based Deep Learning for Medical Diagnosis and Analysis: Past, Present and Future. CoRR abs/2105.13137 (2021)
+5. Stavros Georgousis, Michael P. Kenning, Xianghua Xie: Graph Deep Learning: State of the Art and Challenges. IEEE Access 9: 22106-22140 (2021)
+6. Yaochen Xie, Zhao Xu, Zhengyang Wang, Shuiwang Ji: Self-Supervised Learning of Graph Neural Networks: A Unified Review. CoRR abs/2102.10757(2021)
+7. Zixing Song, Xiangli Yang, Zenglin Xu, Irwin King: Graph-based Semi-supervised Learning: A Comprehensive Review. CoRR abs/2102.13303 (2021)
+8. Shoujin Wang, Liang Hu, Yan Wang, Xiangnan He, Quan Z. Sheng, Mehmet A. Orgun, Longbing Cao, Francesco Ricci, Philip S. Yu: Graph Learning based Recommender Systems: A Review. CoRR abs/2105.06339 (2021)
+9. Guixiang Ma, Nesreen K. Ahmed, Theodore L. Willke, Philip S. Yu: Deep graph similarity learning: a survey. Data Min. Knowl. Discov. 35(3): 688-725 (2021) 
+10. Ilya Makarov, Dmitrii Kiselev, Nikita Nikitinsky, Lovro Subelj: Survey on graph embeddings and their applications to machine learning problems on graphs. PeerJ Comput. Sci. 7: e357 (2021)
+11. Ziwei Zhang, Xin Wang, Wenwu Zhu: Automated Machine Learning on Graphs: A Survey. CoRR abs/2103.00742CCF none (2021)
+12. Yixin Liu, Shirui Pan, Ming Jin, Chuan Zhou, Feng Xia, Philip S. Yu: Graph Self-Supervised Learning: A Survey. CoRR abs/2103.00111 2021)
+13. Feng Xia, Ke Sun, Shuo Yu, Abdul Aziz, Liangtian Wan, Shirui Pan, Huan Liu: Graph Learning: A Survey. CoRR abs/2105.00696CCF none (2021)
+14. Chong, Yun Ding, Qing Yan, Shaoming Pan: Graph-based semi-supervised learning: A review. Neurocomputing 408: 216-230 (2020)
+15. Jie Zhou, Ganqu Cui, Shengding Hu, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Lifeng Wang, Changcheng Li, Maosong Sun: Graph neural networks: A review of methods and applications. AI Open 1: 57-81 (2020)
+16. Seyed Mehran Kazemi, Rishab Goel, Kshitij Jain, Ivan Kobyzev, Akshay Sethi, Peter Forsyth, Pascal Poupart: Representation Learning for Dynamic Graphs: A Survey. J. Mach. Learn. Res. 21 : 70:1-70:73 (2020) 
+17. Ziwei Zhang, Peng Cui, Wenwu Zhu: Deep Learning on Graphs: A Survey. CoRR abs/1812.04202 (2018)
 
 ## Definitions and Methods
 
