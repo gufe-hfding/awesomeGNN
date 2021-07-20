@@ -85,6 +85,7 @@ The most related repositories：
 ## Implementation
 
 1. Patrick Reiser, André Eberhard, Pascal Friederich: Implementing graph neural networks with TensorFlow-Keras. CoRR abs/2103.04318 (2021)
+2. Weihua Hu, Matthias Fey, Marinka Zitnik, Yuxiao Dong, Hongyu Ren, Bowen Liu, Michele Catasta, Jure Leskovec: Open Graph Benchmark: Datasets for Machine Learning on Graphs. NeurIPS 2020
 
 ## Applications
 
@@ -100,26 +101,23 @@ The most related repositories：
 
 ## Adversarial Attacks on GNNs
 
-1. Xin Zhao, Zeru Zhang, Zijie Zhang, Lingfei Wu, Jiayin Jin, Yang Zhou, Ruoming Jin, Dejing Dou, Da Yan: Expressive 1-Lipschitz Neural Networks for Robust Multiple Graph Learning against Adversarial Attacks. ICML 2021: 12719-12735
-
-2. Peiyuan Liao, Han Zhao, Keyulu Xu, Tommi S. Jaakkola, Geoffrey J. Gordon, Stefanie Jegelka, Ruslan Salakhutdinov: Information Obfuscation of Graph Neural Networks. ICML 2021: 6600-6610
-
-3. Jiaxiang Ren, Zijie Zhang, Jiayin Jin, Xin Zhao, Sixing Wu, Yang Zhou, Yelong Shen, Tianshi Che, Ruoming Jin, Dejing Dou: Integrated Defense for Resilient Graph Matching. ICML 2021: 8982-8997
-
-4. 图神经网络的对抗攻击研究https://www.bilibili.com/video/BV1YJ411J7SL
-
-5. Heng Chang, Yu Rong, Tingyang Xu, Wenbing Huang, Honglei Zhang, Peng Cui, Xin Wang, Wenwu Zhu, Junzhou Huang: Adversarial Attack Framework on Graph Embedding Models with Limited Knowledge. CoRR abs/2105.12419 (2021)
-
-6. 陈晋音,黄国瀚,张敦杰,张旭鸿,纪守领.一种面向图神经网络的图重构防御方法[J].计算机研究与发展,2021,58(05):1075-1091.
-
-7. Jacob Dineen, A. S. M. Ahsan-Ul-Haque, Matthew Bielskas: Reinforcement Learning For Data Poisoning on Graph Neural Networks. CoRR abs/2102.06800 (2021)
-
-8. GraphAttacker: A General Multi-Task GraphAttack Framework arXiv:2101.06855
-   Jinyin Chen, Dunjie Zhang, Zhaoyan Ming, Kejie Huang 
-
-9. Jairo Giraldo, Alvaro A. Cárdenas, Murat Kantarcioglu, Jonathan Katz: Adversarial Classification Under Differential Privacy. NDSS 2020
-
-10. **Adversarial Attacks on Neural Networks for Graph Data.** KDD 2018. [paper](http://delivery.acm.org/10.1145/3230000/3220078/p2847-zugner.pdf?ip=101.5.139.169&id=3220078&acc=ACTIVE SERVICE&key=BF85BBA5741FDC6E.587F3204F5B62A59.4D4702B0C3E38B35.4D4702B0C3E38B35&__acm__=1545706391_e7484be677293ffb5f18b39ce84a0df9)
+1. Shengsheng Qian, Dizhan Xue, Huaiwen Zhang, Quan Fang, Changsheng Xu: Dual Adversarial Graph Neural Networks for Multi-label Cross-modal Retrieval. AAAI 2021CCF A: 2440-2448
+2. Uday Shankar Shanthamallu, Jayaraman J. Thiagarajan, Andreas Spanias: Uncertainty-Matching Graph Neural Networks to Defend Against Poisoning Attacks. AAAI 2021CCF A: 9524-9532
+3. Boyuan Feng, Yuke Wang, Yufei Ding: UAG: Uncertainty-aware Attention Graph Neural Network for Defending Adversarial Attacks. AAAI 2021CCF A: 7404-7412
+4. Xin Zhao, Zeru Zhang, Zijie Zhang, Lingfei Wu, Jiayin Jin, Yang Zhou, Ruoming Jin, Dejing Dou, Da Yan: Expressive 1-Lipschitz Neural Networks for Robust Multiple Graph Learning against Adversarial Attacks. ICML 2021: 12719-12735
+5. Peiyuan Liao, Han Zhao, Keyulu Xu, Tommi S. Jaakkola, Geoffrey J. Gordon, Stefanie Jegelka, Ruslan Salakhutdinov: Information Obfuscation of Graph Neural Networks. ICML 2021: 6600-6610
+6. Jiaxiang Ren, Zijie Zhang, Jiayin Jin, Xin Zhao, Sixing Wu, Yang Zhou, Yelong Shen, Tianshi Che, Ruoming Jin, Dejing Dou: Integrated Defense for Resilient Graph Matching. ICML 2021: 8982-8997
+7. 图神经网络的对抗攻击研究https://www.bilibili.com/video/BV1YJ411J7SL
+8. Heng Chang, Yu Rong, Tingyang Xu, Wenbing Huang, Honglei Zhang, Peng Cui, Xin Wang, Wenwu Zhu, Junzhou Huang: Adversarial Attack Framework on Graph Embedding Models with Limited Knowledge. CoRR abs/2105.12419 (2021)
+9. 陈晋音,黄国瀚,张敦杰,张旭鸿,纪守领.一种面向图神经网络的图重构防御方法[J].计算机研究与发展,2021,58(05):1075-1091.
+10. Jacob Dineen, A. S. M. Ahsan-Ul-Haque, Matthew Bielskas: Reinforcement Learning For Data Poisoning on Graph Neural Networks. CoRR abs/2102.06800 (2021)
+11. GraphAttacker: A General Multi-Task GraphAttack Framework arXiv:2101.06855
+    Jinyin Chen, Dunjie Zhang, Zhaoyan Ming, Kejie Huang 
+12. Zijie Zhang, Zeru Zhang, Yang Zhou, Yelong Shen, Ruoming Jin, Dejing Dou: Adversarial Attacks on Deep Graph Matching. NeurIPS 2020
+13. Xiang Zhang, Marinka Zitnik: GNNGuard: Defending Graph Neural Networks against Adversarial Attacks. NeurIPS 2020
+14. Jiaqi Ma, Shuangrui Ding, Qiaozhu Mei: Towards More Practical Adversarial Attacks on Graph Neural Networks. NeurIPS 2020.
+15. Jairo Giraldo, Alvaro A. Cárdenas, Murat Kantarcioglu, Jonathan Katz: Adversarial Classification Under Differential Privacy. NDSS 2020
+16. **Adversarial Attacks on Neural Networks for Graph Data.** KDD 2018. [paper](http://delivery.acm.org/10.1145/3230000/3220078/p2847-zugner.pdf?ip=101.5.139.169&id=3220078&acc=ACTIVE SERVICE&key=BF85BBA5741FDC6E.587F3204F5B62A59.4D4702B0C3E38B35.4D4702B0C3E38B35&__acm__=1545706391_e7484be677293ffb5f18b39ce84a0df9)
 
    *Daniel Zügner, Amir Akbarnejad, Stephan Günnemann.*
 
@@ -174,20 +172,23 @@ The most related repositories：
 
 ## Interpretability of GNNs
 
-1. Wanyu Lin, Hao Lan, Baochun Li: Generative Causal Explanations for Graph Neural Networks. ICML 2021: 6666-6679 
-2. Hao Yuan, Haiyang Yu, Jie Wang, Kang Li, Shuiwang Ji: On Explainability of Graph Neural Networks via Subgraph Explorations. ICML 2021: 12241-12252
-3. Ryan Henderson, Djork-Arné Clevert, Floriane Montanari: Improving Molecular Graph Neural Network Explainability with Orthonormalization and Induced Sparsity. ICML 2021: 4203-4213
-4. Zhu, Xiao Wang, Chuan Shi, Houye Ji, Peng Cui: Interpreting and Unifying Graph Neural Networks with An Optimization Framework. CoRR abs/2101.11859  (2021)
-5. Ana Lucic, Maartje ter Hoeve, Gabriele Tolomei, Maarten de Rijke, Fabrizio Silvestri: CF-GNNExplainer: Counterfactual Explanations for Graph Neural Networks. CoRR abs/2102.03322  (2021)
-6. Hao Yuan, Haiyang Yu, Shurui Gui, Shuiwang Ji: Explainability in Graph Neural Networks: A Taxonomic Survey. CoRR abs/2012.15445 (2020)
-7. Lukas Pfahler, Jan Richter: Interpretable Nearest Neighbor Queries for Tree-Structured Data in Vector Databases of Graph-Neural Network Embeddings. EDBT/ICDT Workshops 2020
-8. Qiang Huang, Makoto Yamada, Yuan Tian, Dinesh Singh, Dawei Yin, Yi Chang: GraphLIME: Local Interpretable Model Explanations for Graph Neural Networks. CoRR abs/2001.06216  (2020)
-9. Chris Lin, Gerald J. Sun, Krishna C. Bulusu, Jonathan R. Dry, Marylens Hernandez: Graph Neural Networks Including Sparse Interpretability. CoRR abs/2007.00119(2020)
-10. Avinash Kori, Parth Natekar, Ganapathy Krishnamurthi, Balaji Srinivasan: Abstracting Deep Neural Networks into Concept Graphs for Concept Level Interpretability. CoRR abs/2008.06457(2020)
-11. Yuhang Yao, Carlee Joe-Wong: Interpretable Clustering on Dynamic Graphs with Recurrent Graph Neural Networks. CoRR abs/2012.08740 (2020)
-12. Siheng Chen, Yonina C. Eldar, Lingxiao Zhao: Graph Unrolling Networks: Interpretable Neural Networks for Graph Signal Denoising. CoRR abs/2006.01301 (2020)
-13. Tianle Ma, Aidong Zhang: Incorporating Biological Knowledge with Factor Graph Neural Network for Interpretable Deep Learning. CoRR abs/1906.00537 (2019)
-14. Phillip E. Pope, Soheil Kolouri, Mohammad Rostami, Charles E. Martin, Heiko Hoffmann: Explainability Methods for Graph Convolutional Neural Networks. CVPR 2019: 10772-10781
+1. Jindong Gu:Interpretable Graph Capsule Networks for Object Recognition. AAAI 2021CCF A: 1469-1477
+2. Wanyu Lin, Hao Lan, Baochun Li: Generative Causal Explanations for Graph Neural Networks. ICML 2021: 6666-6679 
+3. Hao Yuan, Haiyang Yu, Jie Wang, Kang Li, Shuiwang Ji: On Explainability of Graph Neural Networks via Subgraph Explorations. ICML 2021: 12241-12252
+4. Ryan Henderson, Djork-Arné Clevert, Floriane Montanari: Improving Molecular Graph Neural Network Explainability with Orthonormalization and Induced Sparsity. ICML 2021: 4203-4213
+5. Zhu, Xiao Wang, Chuan Shi, Houye Ji, Peng Cui: Interpreting and Unifying Graph Neural Networks with An Optimization Framework. CoRR abs/2101.11859  (2021)
+6. Ana Lucic, Maartje ter Hoeve, Gabriele Tolomei, Maarten de Rijke, Fabrizio Silvestri: CF-GNNExplainer: Counterfactual Explanations for Graph Neural Networks. CoRR abs/2102.03322  (2021)
+7. Minh N. Vu, My T. Thai: PGM-Explainer: Probabilistic Graphical Model Explanations for Graph Neural Networks. NeurIPS 2020
+8. Hao Yuan, Haiyang Yu, Shurui Gui, Shuiwang Ji: Explainability in Graph Neural Networks: A Taxonomic Survey. CoRR abs/2012.15445 (2020)
+9. Lukas Pfahler, Jan Richter: Interpretable Nearest Neighbor Queries for Tree-Structured Data in Vector Databases of Graph-Neural Network Embeddings. EDBT/ICDT Workshops 2020
+10. Qiang Huang, Makoto Yamada, Yuan Tian, Dinesh Singh, Dawei Yin, Yi Chang: GraphLIME: Local Interpretable Model Explanations for Graph Neural Networks. CoRR abs/2001.06216  (2020)
+11. Chris Lin, Gerald J. Sun, Krishna C. Bulusu, Jonathan R. Dry, Marylens Hernandez: Graph Neural Networks Including Sparse Interpretability. CoRR abs/2007.00119(2020)
+12. Avinash Kori, Parth Natekar, Ganapathy Krishnamurthi, Balaji Srinivasan: Abstracting Deep Neural Networks into Concept Graphs for Concept Level Interpretability. CoRR abs/2008.06457(2020)
+13. Yuhang Yao, Carlee Joe-Wong: Interpretable Clustering on Dynamic Graphs with Recurrent Graph Neural Networks. CoRR abs/2012.08740 (2020)
+14. Siheng Chen, Yonina C. Eldar, Lingxiao Zhao: Graph Unrolling Networks: Interpretable Neural Networks for Graph Signal Denoising. CoRR abs/2006.01301 (2020)
+15. Zhitao Ying, Dylan Bourgeois, Jiaxuan You, Marinka Zitnik, Jure Leskovec: GNNExplainer: Generating Explanations for Graph Neural Networks. NeurIPS 2019CCF A: 9240-9251
+16. Tianle Ma, Aidong Zhang: Incorporating Biological Knowledge with Factor Graph Neural Network for Interpretable Deep Learning. CoRR abs/1906.00537 (2019)
+17. Phillip E. Pope, Soheil Kolouri, Mohammad Rostami, Charles E. Martin, Heiko Hoffmann: Explainability Methods for Graph Convolutional Neural Networks. CVPR 2019: 10772-10781
 
 ## Privacy of GNNs
 
@@ -198,12 +199,13 @@ The most related repositories：
 5. Iyiola E. Olatunji, Wolfgang Nejdl, Megha Khosla: Membership Inference Attack on Graph Neural Networks. CoRR abs/2101.06570  (2021)
 6. Xinlei He, Rui Wen, Yixin Wu, Michael Backes, Yun Shen, Yang Zhang: Node-Level Membership Inference Attacks Against Graph Neural Networks. CoRR abs/2102.05429 (2021)
 7. Xinlei He, Jinyuan Jia, Michael Backes, Neil Zhenqiang Gong, Yang Zhang: Stealing Links from Graph Neural Networks. USENIX Security '21(2021)
-8. Sina Sajadmanesh, Daniel Gatica-Perez: Locally Private Graph Neural Networks. CoRR abs/2006.05535 (2020) https://github.com/sisaman/LPGNN
-9. Vasisht Duddu, Antoine Boutet, Virat Shejwalkar: Quantifying Privacy Leakage in Graph Embedding. CoRR abs/2010.00906 (2020)
-10. Guang Yang, Juan Cao, Zhineng Chen, Junbo Guo, Jintao Li: Graph-based neural networks for explainable image privacy inference. Pattern Recognit. 105 107360 (2020)
-11. Jun Zhou, Chaochao Chen, Longfei Zheng, Xiaolin Zheng, Bingzhe Wu, Ziqi Liu, Li Wang: Privacy-Preserving Graph Neural Network for Node Classification. CoRR abs/2005.11903 (2020)
-12. Sina Sajadmanesh, Daniel Gatica-Perez: When Differential Privacy Meets Graph Neural Networks. CoRR abs/2006.05535 (2020)
-13. Luca Luceri, Davide Andreoletti, Silvia Giordano: Infringement of Tweets Geo-Location Privacy: an approach based on Graph Convolutional Neural Networks. CoRR abs/1903.11206
+8. Lun Wang, Qi Pang, Dawn Song: Towards practical differentially private causal graph discovery. NeurIPS 2020
+9. Sina Sajadmanesh, Daniel Gatica-Perez: Locally Private Graph Neural Networks. CoRR abs/2006.05535 (2020) https://github.com/sisaman/LPGNN
+10. Vasisht Duddu, Antoine Boutet, Virat Shejwalkar: Quantifying Privacy Leakage in Graph Embedding. CoRR abs/2010.00906 (2020)
+11. Guang Yang, Juan Cao, Zhineng Chen, Junbo Guo, Jintao Li: Graph-based neural networks for explainable image privacy inference. Pattern Recognit. 105 107360 (2020)
+12. Jun Zhou, Chaochao Chen, Longfei Zheng, Xiaolin Zheng, Bingzhe Wu, Ziqi Liu, Li Wang: Privacy-Preserving Graph Neural Network for Node Classification. CoRR abs/2005.11903 (2020)
+13. Sina Sajadmanesh, Daniel Gatica-Perez: When Differential Privacy Meets Graph Neural Networks. CoRR abs/2006.05535 (2020)
+14. Luca Luceri, Davide Andreoletti, Silvia Giordano: Infringement of Tweets Geo-Location Privacy: an approach based on Graph Convolutional Neural Networks. CoRR abs/1903.11206
 
 ## Federated GNNs
 
