@@ -55,31 +55,33 @@ The most related repositories：
 12. 朱时超： 图表示学习专题 https://www.bilibili.com/video/BV1554y1z7mY
 13. 2020 北京智源大会 6.23 图神经网络专题 https://www.bilibili.com/video/BV1nV411k7c5
 14. 图神经网络：方法与应用的综述 https://www.bilibili.com/video/BV1B64y1k7L6
-15. Graph Neural Networks: Models and Applications https://cse.msu.edu/~mayao4/tutorials/aaai2020/
-16. Deep Learning on Graphs, by Xavier bresson https://www.dropbox.com/s/wksvde7wx9y7z20/talk_QuantumBlack_McKinsey_12Nov19.pdf?dl=0
-17. Deep Graph Learning: Foundations, Advances and Applications https://ai.tencent.com/ailab/ml/KDD-Deep-Graph-Learning.html
-18. Theoretical Foundations of Graph Neural Networks https://petar-v.com/talks/GNN-Wednesday.pdf
-19. 图数据库介绍及其在各场景中的应用 https://www.bilibili.com/video/BV1ef4y1Y77o
+15. 图神经网络：模型与应用 https://www.bilibili.com/video/BV11b4y1z7Bp
+16. Graph Neural Networks: Models and Applications https://cse.msu.edu/~mayao4/tutorials/aaai2020/ ()[pdf]
+17. Deep Learning on Graphs, by Xavier bresson https://www.dropbox.com/s/wksvde7wx9y7z20/talk_QuantumBlack_McKinsey_12Nov19.pdf?dl=0
+18. Deep Graph Learning: Foundations, Advances and Applications https://ai.tencent.com/ailab/ml/KDD-Deep-Graph-Learning.html
+19. Theoretical Foundations of Graph Neural Networks https://petar-v.com/talks/GNN-Wednesday.pdf
+20. 图数据库介绍及其在各场景中的应用 https://www.bilibili.com/video/BV1ef4y1Y77o
 
 ### Surveys
 1. 马帅,刘建伟,左信.图神经网络综述[J/OL].计算机研究与发展,{3},{4}{5}:1-44[2021-07-14].http://kns.cnki.net/kcms/detail/11.1777.tp.20210625.1353.004.html.
 2. 徐冰冰,岑科廷,黄俊杰,沈华伟,程学旗.图卷积神经网络综述[J].计算机学报,2020,43(05):755-780.
-3. Zonghan Wu, Shirui Pan, Fengwen Chen, Guodong Long, Chengqi Zhang, Philip S. Yu: A Comprehensive Survey on Graph Neural Networks. IEEE Trans. Neural Networks Learn. Syst. 32(1): 4-24 (2021)
-4. David Ahmedt-Aristizabal, Mohammad Ali Armin, Simon Denman, Clinton Fookes, Lars Petersson: Graph-Based Deep Learning for Medical Diagnosis and Analysis: Past, Present and Future. CoRR abs/2105.13137 (2021)
-5. Stavros Georgousis, Michael P. Kenning, Xianghua Xie: Graph Deep Learning: State of the Art and Challenges. IEEE Access 9: 22106-22140 (2021)
-6. Yaochen Xie, Zhao Xu, Zhengyang Wang, Shuiwang Ji: Self-Supervised Learning of Graph Neural Networks: A Unified Review. CoRR abs/2102.10757(2021)
-7. Zixing Song, Xiangli Yang, Zenglin Xu, Irwin King: Graph-based Semi-supervised Learning: A Comprehensive Review. CoRR abs/2102.13303 (2021)
-8. Shoujin Wang, Liang Hu, Yan Wang, Xiangnan He, Quan Z. Sheng, Mehmet A. Orgun, Longbing Cao, Francesco Ricci, Philip S. Yu: Graph Learning based Recommender Systems: A Review. CoRR abs/2105.06339 (2021)
-9. Guixiang Ma, Nesreen K. Ahmed, Theodore L. Willke, Philip S. Yu: Deep graph similarity learning: a survey. Data Min. Knowl. Discov. 35(3): 688-725 (2021) 
-10. Ilya Makarov, Dmitrii Kiselev, Nikita Nikitinsky, Lovro Subelj: Survey on graph embeddings and their applications to machine learning problems on graphs. PeerJ Comput. Sci. 7: e357 (2021)
-11. Ziwei Zhang, Xin Wang, Wenwu Zhu: Automated Machine Learning on Graphs: A Survey. CoRR abs/2103.00742CCF none (2021)
-12. Yixin Liu, Shirui Pan, Ming Jin, Chuan Zhou, Feng Xia, Philip S. Yu: Graph Self-Supervised Learning: A Survey. CoRR abs/2103.00111 2021)
-13. Feng Xia, Ke Sun, Shuo Yu, Abdul Aziz, Liangtian Wan, Shirui Pan, Huan Liu: Graph Learning: A Survey. CoRR abs/2105.00696CCF none (2021)
-14. Yu Rong, Tingyang Xu, Junzhou Huang, Wenbing Huang, Hong Cheng, Yao Ma, Yiqi Wang, Tyler Derr, Lingfei Wu, Tengfei Ma: Deep Graph Learning: Foundations, Advances and Applications. 3555-3556
-15. Chong, Yun Ding, Qing Yan, Shaoming Pan: Graph-based semi-supervised learning: A review. Neurocomputing 408: 216-230 (2020)
-16. Jie Zhou, Ganqu Cui, Shengding Hu, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Lifeng Wang, Changcheng Li, Maosong Sun: Graph neural networks: A review of methods and applications. AI Open 1: 57-81 (2020)
-17. Seyed Mehran Kazemi, Rishab Goel, Kshitij Jain, Ivan Kobyzev, Akshay Sethi, Peter Forsyth, Pascal Poupart: Representation Learning for Dynamic Graphs: A Survey. J. Mach. Learn. Res. 21 : 70:1-70:73 (2020) 
-18. Ziwei Zhang, Peng Cui, Wenwu Zhu: Deep Learning on Graphs: A Survey. CoRR abs/1812.04202 (2018)
+3. Debmalya Mandal, Sourav Medya, Brian Uzzi, Charu Aggarwal: Meta-Learning with Graph Neural Networks: Methods and Applications. CoRR abs/2103.00137 (2021)
+4. Zonghan Wu, Shirui Pan, Fengwen Chen, Guodong Long, Chengqi Zhang, Philip S. Yu: A Comprehensive Survey on Graph Neural Networks. IEEE Trans. Neural Networks Learn. Syst. 32(1): 4-24 (2021)
+5. David Ahmedt-Aristizabal, Mohammad Ali Armin, Simon Denman, Clinton Fookes, Lars Petersson: Graph-Based Deep Learning for Medical Diagnosis and Analysis: Past, Present and Future. CoRR abs/2105.13137 (2021)
+6. Stavros Georgousis, Michael P. Kenning, Xianghua Xie: Graph Deep Learning: State of the Art and Challenges. IEEE Access 9: 22106-22140 (2021)
+7. Yaochen Xie, Zhao Xu, Zhengyang Wang, Shuiwang Ji: Self-Supervised Learning of Graph Neural Networks: A Unified Review. CoRR abs/2102.10757(2021)
+8. Zixing Song, Xiangli Yang, Zenglin Xu, Irwin King: Graph-based Semi-supervised Learning: A Comprehensive Review. CoRR abs/2102.13303 (2021)
+9. Shoujin Wang, Liang Hu, Yan Wang, Xiangnan He, Quan Z. Sheng, Mehmet A. Orgun, Longbing Cao, Francesco Ricci, Philip S. Yu: Graph Learning based Recommender Systems: A Review. CoRR abs/2105.06339 (2021)
+10. Guixiang Ma, Nesreen K. Ahmed, Theodore L. Willke, Philip S. Yu: Deep graph similarity learning: a survey. Data Min. Knowl. Discov. 35(3): 688-725 (2021) 
+11. Ilya Makarov, Dmitrii Kiselev, Nikita Nikitinsky, Lovro Subelj: Survey on graph embeddings and their applications to machine learning problems on graphs. PeerJ Comput. Sci. 7: e357 (2021)
+12. Ziwei Zhang, Xin Wang, Wenwu Zhu: Automated Machine Learning on Graphs: A Survey. CoRR abs/2103.00742CCF none (2021)
+13. Yixin Liu, Shirui Pan, Ming Jin, Chuan Zhou, Feng Xia, Philip S. Yu: Graph Self-Supervised Learning: A Survey. CoRR abs/2103.00111 2021)
+14. Feng Xia, Ke Sun, Shuo Yu, Abdul Aziz, Liangtian Wan, Shirui Pan, Huan Liu: Graph Learning: A Survey. CoRR abs/2105.00696CCF none (2021)
+15. Yu Rong, Tingyang Xu, Junzhou Huang, Wenbing Huang, Hong Cheng, Yao Ma, Yiqi Wang, Tyler Derr, Lingfei Wu, Tengfei Ma: Deep Graph Learning: Foundations, Advances and Applications. 3555-3556
+16. Chong, Yun Ding, Qing Yan, Shaoming Pan: Graph-based semi-supervised learning: A review. Neurocomputing 408: 216-230 (2020)
+17. Jie Zhou, Ganqu Cui, Shengding Hu, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Lifeng Wang, Changcheng Li, Maosong Sun: Graph neural networks: A review of methods and applications. AI Open 1: 57-81 (2020)
+18. Seyed Mehran Kazemi, Rishab Goel, Kshitij Jain, Ivan Kobyzev, Akshay Sethi, Peter Forsyth, Pascal Poupart: Representation Learning for Dynamic Graphs: A Survey. J. Mach. Learn. Res. 21 : 70:1-70:73 (2020) 
+19. Ziwei Zhang, Peng Cui, Wenwu Zhu: Deep Learning on Graphs: A Survey. CoRR abs/1812.04202 (2018)
 
 ## Definitions and Methods
 
@@ -208,24 +210,25 @@ The most related repositories：
 
 1. Sina Sajadmanesh, Daniel Gatica-Perez: Locally Private Graph Neural Networks. ACM CCS 2021 [github](https://github.com/sisaman/LPGNN) 
 2. Iyiola E. Olatunji, Wolfgang Nejdl, Megha Khosla: Membership Inference Attack on Graph Neural Networks. CoRR abs/2101.06570 (2021)
-3. Chuizheng Meng, Sirisha Rambhatla, Yan Liu: Cross-Node Federated Graph Neural Network for Spatio-Temporal Data Modeling. CoRR abs/2106.05223 (2021)
-4. Timour Igamberdiev, Ivan Habernal: Privacy-Preserving Graph Convolutional Networks for Text Classification. CoRR abs/2102.09604 (2021)
-5. Zaixi Zhang, Qi Liu, Zhenya Huang, Hao Wang, Chengqiang Lu, Chuanren Liu, Enhong Chen: GraphMI: Extracting Private Graph Data from Graph Neural Networks. CoRR abs/2106.02820(2021)
-6. Elsa Rizk, Ali H. Sayed: A Graph Federated Architecture with Privacy Preserving Learning. CoRR abs/2104.13215 (2021)
-7. Binghui Wang, Jiayi Guo, Ang Li, Yiran Chen, Hai Li: Privacy-Preserving Representation Learning on Graphs: A Mutual Information Perspective. KDD 2021
-8. Jacob Imola, Takao Murakami, Kamalika Chaudhuri, Locally Differentially Private Analysis of Graph Statistics. USENIX Security '21(2021)
-9. Mingqi Lv, Dajian Zeng, Ling Chen, Tieming Chen, Tiantian Zhu, and Shouling Ji, Private Cell-ID Trajectory Prediction Using Multi-Graph Embedding and EncoderDecoder Network, IEEE Transactions on Mobile Computing (TMC), 2021.
-10. I-Chung Hsieh, Cheng-Te Li: NetFense: Adversarial Defenses against Privacy Attacks on Neural Networks for Graph Data. CoRR abs/2106.11865 (2021)
-11. Timour Igamberdiev, Ivan Habernal: Privacy-Preserving Graph Convolutional Networks for Text Classification. CoRR abs/2102.09604(2021)
-12. Iyiola E. Olatunji, Wolfgang Nejdl, Megha Khosla: Membership Inference Attack on Graph Neural Networks. CoRR abs/2101.06570  (2021)
-13. Xinlei He, Rui Wen, Yixin Wu, Michael Backes, Yun Shen, Yang Zhang: Node-Level Membership Inference Attacks Against Graph Neural Networks. CoRR abs/2102.05429 (2021)
-14. Xinlei He, Jinyuan Jia, Michael Backes, Neil Zhenqiang Gong, Yang Zhang: Stealing Links from Graph Neural Networks. USENIX Security '21(2021)
-15. Lun Wang, Qi Pang, Dawn Song: Towards practical differentially private causal graph discovery. NeurIPS 2020
-16. Sina Sajadmanesh, Daniel Gatica-Perez: Locally Private Graph Neural Networks. CoRR abs/2006.05535 (2020) https://github.com/sisaman/LPGNN
-17. Vasisht Duddu, Antoine Boutet, Virat Shejwalkar: Quantifying Privacy Leakage in Graph Embedding. CoRR abs/2010.00906 (2020)
-18. Guang Yang, Juan Cao, Zhineng Chen, Junbo Guo, Jintao Li: Graph-based neural networks for explainable image privacy inference. Pattern Recognit. 105 107360 (2020)
-19. Jun Zhou, Chaochao Chen, Longfei Zheng, Xiaolin Zheng, Bingzhe Wu, Ziqi Liu, Li Wang: Privacy-Preserving Graph Neural Network for Node Classification. CoRR abs/2005.11903 (2020)
-20. Luca Luceri, Davide Andreoletti, Silvia Giordano: Infringement of Tweets Geo-Location Privacy: an approach based on Graph Convolutional Neural Networks. CoRR abs/1903.11206
+3. Chuanqiang Shan, Huiyun Jiao, Jie Fu: Towards Representation Identical Privacy-Preserving Graph Neural Network via Split Learning. CoRR abs/2107.05917CCF none (2021)
+4. Chuizheng Meng, Sirisha Rambhatla, Yan Liu: Cross-Node Federated Graph Neural Network for Spatio-Temporal Data Modeling. CoRR abs/2106.05223 (2021)
+5. Timour Igamberdiev, Ivan Habernal: Privacy-Preserving Graph Convolutional Networks for Text Classification. CoRR abs/2102.09604 (2021)
+6. Zaixi Zhang, Qi Liu, Zhenya Huang, Hao Wang, Chengqiang Lu, Chuanren Liu, Enhong Chen: GraphMI: Extracting Private Graph Data from Graph Neural Networks. CoRR abs/2106.02820(2021)
+7. Elsa Rizk, Ali H. Sayed: A Graph Federated Architecture with Privacy Preserving Learning. CoRR abs/2104.13215 (2021)
+8. Binghui Wang, Jiayi Guo, Ang Li, Yiran Chen, Hai Li: Privacy-Preserving Representation Learning on Graphs: A Mutual Information Perspective. KDD 2021
+9. Jacob Imola, Takao Murakami, Kamalika Chaudhuri, Locally Differentially Private Analysis of Graph Statistics. USENIX Security '21(2021)
+10. Mingqi Lv, Dajian Zeng, Ling Chen, Tieming Chen, Tiantian Zhu, and Shouling Ji, Private Cell-ID Trajectory Prediction Using Multi-Graph Embedding and EncoderDecoder Network, IEEE Transactions on Mobile Computing (TMC), 2021.
+11. I-Chung Hsieh, Cheng-Te Li: NetFense: Adversarial Defenses against Privacy Attacks on Neural Networks for Graph Data. CoRR abs/2106.11865 (2021)
+12. Timour Igamberdiev, Ivan Habernal: Privacy-Preserving Graph Convolutional Networks for Text Classification. CoRR abs/2102.09604(2021)
+13. Iyiola E. Olatunji, Wolfgang Nejdl, Megha Khosla: Membership Inference Attack on Graph Neural Networks. CoRR abs/2101.06570  (2021)
+14. Xinlei He, Rui Wen, Yixin Wu, Michael Backes, Yun Shen, Yang Zhang: Node-Level Membership Inference Attacks Against Graph Neural Networks. CoRR abs/2102.05429 (2021)
+15. Xinlei He, Jinyuan Jia, Michael Backes, Neil Zhenqiang Gong, Yang Zhang: Stealing Links from Graph Neural Networks. USENIX Security '21(2021)
+16. Lun Wang, Qi Pang, Dawn Song: Towards practical differentially private causal graph discovery. NeurIPS 2020
+17. Sina Sajadmanesh, Daniel Gatica-Perez: Locally Private Graph Neural Networks. CoRR abs/2006.05535 (2020) https://github.com/sisaman/LPGNN
+18. Vasisht Duddu, Antoine Boutet, Virat Shejwalkar: Quantifying Privacy Leakage in Graph Embedding. CoRR abs/2010.00906 (2020)
+19. Guang Yang, Juan Cao, Zhineng Chen, Junbo Guo, Jintao Li: Graph-based neural networks for explainable image privacy inference. Pattern Recognit. 105 107360 (2020)
+20. Jun Zhou, Chaochao Chen, Longfei Zheng, Xiaolin Zheng, Bingzhe Wu, Ziqi Liu, Li Wang: Privacy-Preserving Graph Neural Network for Node Classification. CoRR abs/2005.11903 (2020)
+21. Luca Luceri, Davide Andreoletti, Silvia Giordano: Infringement of Tweets Geo-Location Privacy: an approach based on Graph Convolutional Neural Networks. CoRR abs/1903.11206
 
 ## Fairness  of GNN
 
