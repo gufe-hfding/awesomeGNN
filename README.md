@@ -263,6 +263,7 @@ The most related repositories：
 - DeepRobust is a PyTorch adversarial library for attack and defense methods on images and graphs.https://github.com/DSE-MSU/DeepRobust
 - 南洋理工大学：Benchmarking Graph Neural Networks https://github.com/graphdeeplearning/benchmarking-gnns
 - 斯坦福大学：Open Graph Benchmark https://ogb.stanford.edu/
+- https://github.com/GRAND-Lab/OpenWGL
 
 ## Topics
 
